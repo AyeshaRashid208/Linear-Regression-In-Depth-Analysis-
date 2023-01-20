@@ -1,2 +1,6 @@
 # Linear Regression In Depth Analysis 
- Maths behind Linear Regression and python implementation of LR without libraries
+### If you are a beginner and you want to exlore Linear regression this notebook will definitly help you in this regard
+- In depth anaylsis of Linear Regression
+- Maths behind it 
+- Python implementation from scratch
+- Projct in Linear regression by creating Linear regression pipeline
